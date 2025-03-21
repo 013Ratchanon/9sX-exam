@@ -8,31 +8,31 @@ const Menu = () => {
       id: 1,
       name: "ชาเขียวนม",
       price: "THB 65",
-      image: "src/image/green milk.jpg",
+      image: "../image/green milk.jpg",
     },
     {
       id: 2,
       name: "เลม่อนโซดา",
       price: "THB 40",
-      image: "src/image/lemon soda.jpg",
+      image: "../image/lemon soda.jpg",
     },
     {
       id: 3,
       name: "สตอเบอรรี่โซดา",
       price: "THB 40",
-      image: "src/image/strawberry.jpg",
+      image: "../image/strawberry.jpg",
     },
     {
       id: 4,
       name: "โกโก้เย็น",
       price: "THB 50",
-      image: "src/image/cocoa.jpg",
+      image: "../image/cocoa.jpg",
     },
     {
       id: 5,
       name: "ชาไทยเย็น",
       price: "THB 50",
-      image: "src/image/tea thai.jpg",
+      image: "../image/tea thai.jpg",
     },
   ];
 

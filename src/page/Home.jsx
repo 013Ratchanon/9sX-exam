@@ -31,7 +31,7 @@ const Home = () => {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
           {/* Product 1 */}
-          <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+          {/* <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <img
               src="/path/to/coffee-image.jpg"
               alt="Espresso"
@@ -44,7 +44,7 @@ const Home = () => {
                 เพิ่มในตะกร้า
               </button>
             </div>
-          </div>
+          </div> */}
           {/* Repeat for other products */}
         </div>
       </section>
